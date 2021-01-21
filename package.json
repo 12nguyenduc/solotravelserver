@@ -46,7 +46,7 @@
     "production": "0.0.2",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-redis": "^5.2.0",
     "tedis": "^0.1.10",
     "ts-node": "^8.4.1",
