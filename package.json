@@ -50,7 +50,7 @@
     "socket.io-redis": "^5.2.0",
     "tedis": "^0.1.10",
     "ts-node": "^8.4.1",
-    "typeorm": "^0.2.20",
+    "typeorm": "^0.2.25",
     "typescript": "^3.7.2",
     "uniqid": "^5.2.0",
     "uuid": "^3.3.3",
